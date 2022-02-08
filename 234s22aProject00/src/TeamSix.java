@@ -10,7 +10,7 @@ public class TeamSix extends Team
     {
         members.add(new TeamMember("Thomas Abato"));
         members.add(new TeamMember("Jake Clause"));
-        members.add(new TeamMember("Colin Conwauy"));
+        members.add(new TeamMember("Colin Conway"));
         // create a new member class for each team member
         // and add it to the team members list
     }
